@@ -1,0 +1,8 @@
+recursive-include src/packages/link *
+recursive-include src/packages/messaging *
+recursive-include src/packages/network *
+recursive-include src/packages/storage *
+recursive-include src/packages/topology *
+
+recursive-include src/bin/node *
+recursive-include src/bin/client *
